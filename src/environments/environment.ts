@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apiKey: 'ZnN1bW1pdC0xOWhhejIxMDgzOQ',
+  baseUrl: 'https://guest-card-service.kerzz.com:6700',
 };
 
 /*

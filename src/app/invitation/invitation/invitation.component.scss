@@ -1,0 +1,10 @@
+input.ng-invalid.ng-touched,
+ng-select.ng-invalid.ng-touched {
+  border: 1px solid;
+  border-color: rgb(243, 131, 131);
+  border-radius: 0.25rem;
+}
+.form-group {
+  // border-top: 1px solid rgba(185, 185, 185, 0.404);
+  // padding-top: 5px;
+}
